@@ -73,6 +73,18 @@ Two columns will appear in the dataset (MA50, MA200), the first 50 rows the resu
 ### Volatility standard deviation
 
        volatility = df['Daily Return'].std()
+## Contributing
+Contributions are welcome! To extend or improve this project:
+
+- Fork this repository
+- Clone your fork and create a new branch Contributing
+- Add your new visualizations or improvements
+- Commit your changes with clear messages
+- Submit a Pull Request for review
+- Feel free to open an issue for suggestions or bugs.
+  
+
+
 
 
 
